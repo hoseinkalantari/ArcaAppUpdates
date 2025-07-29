@@ -1,2 +1,2 @@
 1.0.1.0
-https://arcaclimate-my.sharepoint.com/:u:/p/hosein/ERT8wU5zdTBHnJMNLFYYMnoB6S5FEiyR_SoLlSrHzdKaEg?e=iykA7G
+https://raw.githubusercontent.com/hoseinkalantari/ArcaAppUpdates/refs/heads/main/MyAppInstaller.msi
