@@ -1,5 +1,6 @@
-1.0.8.0
-https://raw.githubusercontent.com/hoseinkalantari/ArcaAppUpdates/refs/heads/main/MyAppInstaller.msi
+1.1.0.0
+https://media.githubusercontent.com/media/hoseinkalantari/ArcaAppUpdates/refs/heads/main/MyAppInstaller.msi
+
 
 
 
